@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Sistema de Ventas</title>
+        <title>Sistema de Ventas por Alonzo</title>
     </head>
     <body>
         <?php
