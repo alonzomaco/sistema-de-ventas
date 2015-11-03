@@ -10,6 +10,7 @@ and open the template in the editor.
         <title>Sistema de Ventas por Alonzo</title>
     </head>
     <body>
+        <h1>Ejemplo de modificación</h1>
         <?php
         // put your code here
         ?>
